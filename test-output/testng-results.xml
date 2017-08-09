@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13337" started-at="2017-08-09T18:16:33Z" finished-at="2017-08-09T18:16:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13337" started-at="2017-08-09T18:16:33Z" finished-at="2017-08-09T18:16:46Z">
+      <class name="automationExcercise.Excercise">
+        <test-method status="PASS" signature="SearchAndOpenSeleniumhqPage()[pri:0, instance:automationExcercise.Excercise@224edc67]" name="SearchAndOpenSeleniumhqPage" duration-ms="13298" started-at="2017-08-09T15:16:33Z" finished-at="2017-08-09T15:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchAndOpenSeleniumhqPage -->
+      </class> <!-- automationExcercise.Excercise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
