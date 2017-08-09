@@ -12,7 +12,9 @@ Project consist on a small test that simulates an user going to Google, type 'Se
 5. Press 'Finsh'
 
 ----Usage----
-To run the test, on Eclipce Package Explorer,  execute: 
+
+To run the test, on Eclipce Package Explorer, execute: 
  /SeleniumExcersice/src/test/java/automationExcercise/Excercise.java 
+ (REMEMBER SET CHROMEDRIVER PATH ON Excercise.java)
  
 
